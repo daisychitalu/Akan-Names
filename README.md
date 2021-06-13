@@ -1,8 +1,8 @@
-# Akan Names project
-####  12 june 2021
+# PORTFOLIO WEB PAGE
+####  6 june 2021
 #### By **Daisy Chitalu**
 ## Description
-It's a project about Akan Names.
+It's a portfolio about myself.
 ## Setup/Installation Requirements
 To run the application in your terminal:
 * Clone Repository on Local Machine 
@@ -11,11 +11,9 @@ To run the application in your terminal:
 ## Known Bugs
 None so far.
 ## Technologies Used
-HTML,CSS & JS
+HTML & CSS
 ## Support and contact details
 daisychitalu20@gmail.com
 
-## My gh-pages link
-[gh-page](https://daisychitalu.github.io/Akan-Names/) 
 ### License
 [MIT] (./LICENCE) (c) 2021 **[Daisy Chitalu]**

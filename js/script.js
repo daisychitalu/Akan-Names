@@ -1,4 +1,4 @@
-var form = document.getElementById('myForm')
+var form = document.getElementById('Form')
 form.addEventListener("submit", function generate(event){
     event.preventDefault()
     let dd = document.getElementById("day").value;

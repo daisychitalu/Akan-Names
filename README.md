@@ -1,4 +1,4 @@
-## GETTING THE AKAN NAMES OF THE USER
+## AKAN NAMES GENERATOR
 #### Daisy Chitalu
 ## **Description**
 #### In this project,Akan Names are derived from Ghanian culture.So in Ghan children are given their first name as a day name which corresponds to the day in the week they are born.In this project we are going to display Akan Names based on your day of week.

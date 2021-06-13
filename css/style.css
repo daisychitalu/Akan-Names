@@ -2,21 +2,6 @@ body{
     background-color: blue;
     font-family: 'Oswald', sans-serif;
 }
-h2{
-    color:blue;
-    text-decoration: none;
-    text-transform: uppercase;
-}
-h3{
-    color:rgb(200, 6, 248);
-    text-decoration: none;
-    text-transform: uppercase;
-}
-.form-group{
-    background-color: rgb(239, 243, 243);
-    margin: 10px;
-}
-.card{
-    background-color: rgb(239, 243, 243);
-    margin: 10px;
+h1{
+    color: burlywood;
 }
